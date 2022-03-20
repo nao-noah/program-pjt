@@ -32,7 +32,7 @@ function App() {
       </p>
       <h2>🚀 My Apps</h2>
       <div className="app-container">
-        <a href="https://dec-fin.vercel.app/">
+        <a href="https://dec-fin.vercel.app/" target="_blank">
           <div className="app-box">
             <div className="app-title">Happy Adding Numbers</div>
             <p>
@@ -41,7 +41,7 @@ function App() {
             </p>
           </div>
         </a>
-        <a href="https://owm-nao-noah.vercel.app/">
+        <a href="https://owm-nao-noah.vercel.app/" target="_blank">
           <div className="app-box">
             <div className="app-title">Vancouver's Weather</div>
             <p>
@@ -51,7 +51,7 @@ function App() {
             </p>
           </div>
         </a>
-        <a href="https://cic3-nodejs-fin.vercel.app/">
+        <a href="https://cic3-nodejs-fin.vercel.app/" target="_blank">
           <div className="app-box">
             <div className="app-title">Shout Your Current Status</div>
             <p>
